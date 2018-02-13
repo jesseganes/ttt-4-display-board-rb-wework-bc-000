@@ -7,5 +7,3 @@ def display_board(board)
   puts "-----------"
   puts "  #{6} |  #{7} |  #{8} "
 end
-
-display_board(board)
